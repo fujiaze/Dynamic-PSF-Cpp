@@ -13,7 +13,7 @@
 ## GitHub仓库
 - **主仓库（推荐）**：https://github.com/fujiaze/Astro-CS-Database
 - 本仓库（历史快照，已封存）：https://github.com/fujiaze/Dynamic-PSF-Cpp
-- 默认分支：master
+- 默认分支：main
 - 最新commit：a3ae0d6
 
 ## 概述
